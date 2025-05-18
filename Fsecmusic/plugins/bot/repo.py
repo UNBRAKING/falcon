@@ -31,13 +31,13 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/xi_xi_xi_xi_xi_xi"),
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/source_code_network"),
+             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/nexaq"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/InfoSecInsiders"),
              ],
      
              [
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/+Y9O5ptuPEFs3NGE1"),          
-             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://github.com/codex-ML/CHOCO-MUSIC-API-BOT"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ", url="https://t.me/+3qdTO0hhs3k0YWRl"),          
+             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://t.me/InfoSecInsiders"),
              ],
      
               ]
