@@ -5,7 +5,7 @@ import requests
 from aiohttp import ClientSession
 from pyrogram import filters
 from pyrogram.types import *
-from telegram import InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from Fsecmusic import app
 
 button = InlineKeyboardMarkup([[
