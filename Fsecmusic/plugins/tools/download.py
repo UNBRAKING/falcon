@@ -9,6 +9,7 @@ from youtube_search import YoutubeSearch
 from yt_dlp import YoutubeDL
 from pyrogram import Client, filters
 from pyrogram.types import *
+from pyrogram.types import Message
 from Fsecmusic import app
 
 @app.on_message(filters.command("audio"))
